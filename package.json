@@ -6,6 +6,6 @@
     "multer": "^2.5.0"
   },
   "scripts": {
-    "start": "node ./src/config/index.js"
+    "start": "node ./src/index.js"
   }
 }
